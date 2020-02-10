@@ -33,7 +33,7 @@ My goal is to become a good front-end developer.
 
 * Saint-Petersburg State University of Telecommunications'19 (radiotechnology)
 * Web-dev for beginners (HTML/CSS) on stepik.org (nov 19)
-* Self-education (learn.javascript.ru, youtube channels, codewars)
+* Self-education (html academy, learn.javascript.ru, youtube channels, codewars)
 
 **English**
 
