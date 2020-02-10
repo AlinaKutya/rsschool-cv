@@ -3,13 +3,11 @@
 # Alina Kutyeva
 *23, Saint-Petersburg*
 
-
-
-
 **Contacts** 
 * [Telegram](https://t.me/kutyeva)
 * [GitHub](https://github.com/AlinaKutya)
 * [Email](flytta.dig@mail.ru)
+* [VK](https://vk.com/id470878147)
 * *+7 981 148 17 55*
  
 **Summary**
